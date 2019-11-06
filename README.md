@@ -1,5 +1,5 @@
 # Composearch
-Composearch (pronounced compo-search) is a simple composable search engine powered by Scala.
+Composearch (pronounced compo-search) is a composable text search engine powered by Scala.
 
 ### Installation
 
