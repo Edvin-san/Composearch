@@ -27,7 +27,7 @@ search> :quit
 The simple searcher has the following behavior:
 * It will only look for .txt files in the specified directory.
 * It only cares about the words, and pairs of subsequent words, of the search string that are contained in the files.
-* A file that has the same words as the search string but in the wrong order will get fewer points than on that has the exact words in the correct order. A file gets 100% if all subsequent pairs of words in the search string are found in the file.
+* A file that has the same words as the search string but in the wrong order will get fewer points than one that has the exact words in the correct order. A file gets 100% if all subsequent pairs of words in the search string are found in the file.
 * Uppercase/lowercase of the search string does not matter. 'CASE' is considered the same as 'case'.
 * Only the ten highest ranked files are displayed.
 
